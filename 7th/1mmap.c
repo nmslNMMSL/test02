@@ -5,6 +5,8 @@
 #include <sys/mman.h>
 #include <sys/wait.h>
 
+
+jkjlkjlkjlk
 //父子进程使用匿名映射进行进程间通信
 int main(void)
 {
